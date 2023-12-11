@@ -31,10 +31,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Dwashi2/TouchdownUI/main/1.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/TouchdownUI/main/2.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/TouchdownUI/main/3.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/TouchdownUI/main/4.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/DevoteUI/main/1.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/DevoteUI/main/2.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/DevoteUI/main/3.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/DevoteUI/main/4.png" width="248">
 </p>
  
  
